@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-23T08:14:54.535Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="xyM-d4GWqiracheafH6y" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-23T08:19:55.617Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="2Qz3ASi5lkmTkh2UJrrp" version="20.6.0" type="github">
   <diagram id="XXp-0uyik5iE-m1X0KlK" name="Страница 1">
     <mxGraphModel dx="3470" dy="1270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
         <mxCell id="RBDj8pT3koU-qj71rcrs-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.501;entryY=0.977;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=ERmany;startFill=0;endArrow=ERone;endFill=0;" parent="1" source="RBDj8pT3koU-qj71rcrs-14" target="RBDj8pT3koU-qj71rcrs-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RBDj8pT3koU-qj71rcrs-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.002;entryY=0.069;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=ERmany;startFill=0;endArrow=ERone;endFill=0;" parent="1" source="RBDj8pT3koU-qj71rcrs-14" target="RBDj8pT3koU-qj71rcrs-19" edge="1">
+        <mxCell id="RBDj8pT3koU-qj71rcrs-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=ERmany;startFill=0;endArrow=ERone;endFill=0;" parent="1" source="RBDj8pT3koU-qj71rcrs-14" target="RBDj8pT3koU-qj71rcrs-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RBDj8pT3koU-qj71rcrs-14" value="MaterialSupplier" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
